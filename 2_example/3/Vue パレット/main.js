@@ -1,4 +1,4 @@
-new Vue({
+const hoge = new Vue({
   el: "#app",
   data: {
     red: 0,
